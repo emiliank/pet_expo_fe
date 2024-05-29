@@ -1,0 +1,32 @@
+.about {
+  text-align: center;
+  font-family: 'Arial, sans-serif';
+  display: contents;
+}
+
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #333;
+  font-family: sans-serif;
+
+}
+
+.about-description {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.about-highlight {
+  color: #cc6637;
+  font-weight: bold;
+}

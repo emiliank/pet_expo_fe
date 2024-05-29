@@ -1,0 +1,46 @@
+.ftco-counter {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .row {
+    display: flex;
+    /* width: 100%; */
+  }
+  
+  .counter-wrap {
+    margin: 0 70px;
+  }
+  
+  .block-18 {
+    border-radius: 10px;
+    padding: 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .counter-wrap:hover .block-18 {
+    transform: translateY(-5px);
+  }
+  
+  .number {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .text {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .text span {
+    font-size: 18px;
+    color: #666;
+  }
+  
